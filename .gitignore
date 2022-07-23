@@ -1,0 +1,5 @@
+#忽略 test.txt文件
+test.txt
+
+#忽略 test文件夹
+test/
